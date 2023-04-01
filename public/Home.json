@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "category": "marketing",
+    "photo": "https://images.unsplash.com/photo-1661956600684-97d3a4320e45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MTV8fG1hcmtldGluZ3xlbnwwfHwwfHw%3D&w=1000&q=80",
+    "date": "01.01.2023",
+    "heading": "Boost Your conver sation rate",
+    "description": "Make use of your connections by approaching friends and family and asking if you can photograph their "
+  },
+  {
+    "id": 2,
+    "category": "salse",
+    "photo": "https://media.istockphoto.com/id/643956812/photo/sales-imporvement.jpg?b=1&s=612x612&w=0&k=20&c=ej5_cURRrRTMBIdb2krD8y2kXmJj61ovUhCSENcsRLk=",
+    "date": "01.01.2023",
+    "heading": "how to use search engin optimization",
+    "description": "Make use of your connections by approaching friends and family and asking if you can photograph "
+  },
+  {
+    "id": 3,
+    "category": "business",
+    "photo": "https://cdn.pixabay.com/photo/2017/01/14/10/56/people-1979261__340.jpg",
+    "date": "01.01.2023",
+    "heading": "improve your customer experience",
+    "description": "Make use of your connections by approaching friends and family and asking if you can photograph their home"
+  }
+]
